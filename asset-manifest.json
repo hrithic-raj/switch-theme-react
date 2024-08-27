@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/switch-theme-react.git/static/css/main.84d99eaf.css",
+    "main.js": "/switch-theme-react.git/static/js/main.dbfc1050.js",
+    "index.html": "/switch-theme-react.git/index.html",
+    "main.84d99eaf.css.map": "/switch-theme-react.git/static/css/main.84d99eaf.css.map",
+    "main.dbfc1050.js.map": "/switch-theme-react.git/static/js/main.dbfc1050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d99eaf.css",
+    "static/js/main.dbfc1050.js"
+  ]
+}
